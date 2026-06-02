@@ -20,4 +20,4 @@ A tarefa foi separada em três exercícios, cada um com propostas diferentes:
 
 + **3.** Escreva um programa que leia 15 números e guarde-os em um vetor. No final, mostre o vetor inteiro na tela e em seguida mostre em que posições foram digitados valores que são múltiplos de 10. 
 
-### Todos os exercícios foram resolvidos através de códigos feitos em Javascript no VS Code, e permitiram a aplicação prática da estruturação de dados com vetores..
+### Todos os exercícios foram resolvidos através de códigos feitos em Javascript no VS Code, e permitiram a aplicação prática da estruturação de dados com vetores.
